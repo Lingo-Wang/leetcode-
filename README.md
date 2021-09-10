@@ -1,3 +1,1 @@
-记录leetcode刷题笔记
-
-编程语言: Python
+记录leetcode刷题过程中遇到的问题，以及部分问题的思路和pythont题解
