@@ -1,1 +1,1 @@
-记录leetcode刷题过程中遇到的问题，以及部分问题的思路和pythont题解
+ leetcode刷题笔记，记录部分问题的解答思路和python代码
